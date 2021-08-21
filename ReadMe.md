@@ -4,6 +4,7 @@
 
 Summary
 - This assignment allows the user to enter a video game, or character to be searched through in the IDGB/Youtube Database.
+- For best result use Mario in the search bar.
 
 Comments
 - BE WARN THERE IS A QUOTA FOR YOUTUBE API THAT CAN BE REACH IF USED TO MUCH
