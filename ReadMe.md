@@ -1,6 +1,6 @@
-###Name: Estevan Cordero
-###Task: API Assignment
-###Course: XML and Web Services - HTTP-5203-RNA
+## Name: Estevan Cordero
+## Task: API Assignment
+## Course: XML and Web Services - HTTP-5203-RNA
 
 Summary
 - This assignment allows the user to enter a video game, or character to be searched through in the IDGB/Youtube Database.
